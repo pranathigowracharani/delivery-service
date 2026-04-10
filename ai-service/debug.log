@@ -1,0 +1,23 @@
+2026-04-10 14:44:49,842 - INFO - AI Service starting up...
+2026-04-10 14:50:08,753 - INFO - Verify request received. Image size: 546592 bytes
+2026-04-10 14:50:15,921 - INFO - DEBUG: Face similarity score: 0.9460
+2026-04-10 14:50:58,135 - INFO - Verify request received. Image size: 482090 bytes
+2026-04-10 14:50:58,724 - INFO - DEBUG: Face similarity score: 0.1073
+2026-04-10 14:51:03,238 - INFO - Verify request received. Image size: 482090 bytes
+2026-04-10 14:51:03,847 - INFO - DEBUG: Face similarity score: 0.1073
+2026-04-10 14:51:14,353 - INFO - Verify request received. Image size: 513184 bytes
+2026-04-10 14:51:14,971 - INFO - DEBUG: Face similarity score: 0.8611
+2026-04-10 14:53:55,234 - INFO - Verify request received. Image size: 471637 bytes
+2026-04-10 14:53:56,094 - INFO - DEBUG: Face similarity score: 0.9329
+2026-04-10 14:54:30,948 - INFO - Verify request received. Image size: 281769 bytes
+2026-04-10 14:54:31,680 - INFO - DEBUG: Face similarity score: 0.4984
+2026-04-10 14:58:15,899 - INFO - Verify request received. Image size: 489116 bytes
+2026-04-10 14:58:17,611 - INFO - DEBUG: Face similarity score: 0.4099
+2026-04-10 14:58:37,032 - INFO - Verify request received. Image size: 437523 bytes
+2026-04-10 14:58:38,965 - INFO - DEBUG: Face similarity score: 0.9474
+2026-04-10 15:01:49,570 - INFO - Verify request received. Image size: 505784 bytes
+2026-04-10 15:01:50,320 - INFO - DEBUG: Face similarity score: 0.9361
+2026-04-10 15:02:31,893 - INFO - Verify request received. Image size: 552341 bytes
+2026-04-10 15:02:32,645 - INFO - DEBUG: Face similarity score: 0.8958
+2026-04-10 15:03:05,561 - INFO - Verify request received. Image size: 525245 bytes
+2026-04-10 15:03:06,335 - INFO - DEBUG: Face similarity score: 0.8299
